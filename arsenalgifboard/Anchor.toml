@@ -1,0 +1,12 @@
+[programs.devnet]
+arsenalgifboard = "LEoQcf8y3E4YeDJJj5yVmYfADq9m9smzkzbFwbAHgcd"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/tayyab/.config/solana/id.json"
+
+[scripts]
+test = "node test/arsenalgifboard.js"
